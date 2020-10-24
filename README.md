@@ -1,18 +1,10 @@
-smartLIB
-======
-SamrtLIB is a Library Management System based miniproject that i did for my BTech mini project . You can see and use it .It is open source anyway :D 
-
-Addon feature 
-- review 
-- rating
-- comments 
--  easy library managing 
--  BOOKarT to sell your book  !  Show the power of a senior :D lolz......!!
+lms-php-app
+This repository is for my PHP MySQL Library Management System that i have done for a project in college for Web services & Applications
 
 
-Team members 
+In order to use this project you need to instal LAMP/WAMP and create folder library in htdocs folder so that you can use localhost to test this application. Then you need to add this files to library folder and also you need to create database called library and add sql file in phpmyadmin dashboard..
 
-1) Renju Koshy
-2) Nithin Prasad
-3) Kavya Valsala
-4) Akhil Nadh PC
+If you want to check out admin panel you need to have following credentials :
+
+username : admin
+password : Test@123
